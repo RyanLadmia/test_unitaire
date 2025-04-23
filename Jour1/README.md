@@ -35,3 +35,11 @@ Premier test :
 ![Image n°4](image/4.png)
 
 
+## Echec des tests :
+
+Modification de math.js :
+
+![Image n°5](image/5.png)
+
+
+
