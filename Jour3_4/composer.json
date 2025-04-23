@@ -6,7 +6,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Test\\Unitaire\\": "src/"
+            "Test\\Unitaire\\": "src/",
+            "App\\": "src/"
         }
     },
     "authors": [

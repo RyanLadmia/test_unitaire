@@ -1,4 +1,5 @@
 <?php
+
 require_once 'calculator.php';
 session_start();
 
@@ -26,7 +27,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $_SESSION['history'] = [];
     } elseif ($btn === '=') 
     {
-        $calculator = new Calculator();
+        $calculator = new \App\Calculator();
 
         try 
         {
@@ -56,9 +57,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 
-
-
 ?>
+
+
 <!DOCTYPE html>
 <html>
 <head>
