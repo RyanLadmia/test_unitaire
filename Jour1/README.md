@@ -3,7 +3,7 @@
 ## Package.json:
 
 ```bash
-npmm init -y
+npm init -y
 ```
 
 puis
