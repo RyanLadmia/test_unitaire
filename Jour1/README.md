@@ -42,4 +42,9 @@ Modification de math.js :
 ![Image n°5](image/5.png)
 
 
+Lancement du second test et echec :
+
+![Image n°6](image/6.png)
+
+
 
