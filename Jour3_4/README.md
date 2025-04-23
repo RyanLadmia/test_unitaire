@@ -28,5 +28,12 @@ $calculator = new \App\Calculator();
 
 
 **Lancement des tests :**
+```php
+vendor/bin/phpunit tests/php/CalculatorTest.php
+```
+
+Résultat :
+
+![Image°2](image/2.png)
 
 
