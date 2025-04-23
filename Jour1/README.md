@@ -12,3 +12,10 @@ npm install --save-dev jest
 ```
 
 ![Image n°1](image/1.png)
+
+
+## Début des tests :
+
+- math.js :
+
+![Image n°2](image/2.png)
