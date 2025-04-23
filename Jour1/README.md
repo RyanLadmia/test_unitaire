@@ -58,11 +58,28 @@ Modification de math.test.js :
 ![Image n°7](image/7.png)
 
 
-Resultat du test : 
+Résultat du test : 
 
 ![Image n°8](image/8.png) ![Image n°9](image/9.png)
 
 ![Image n°10](image/10.png)
+
+
+
+## Correction des fichiers et tests fonctionnels :
+
+- math.js :
+
+![Image n°11](image/11.png)
+
+math.test.js :
+
+![Image n°12](image/12.png)
+
+
+Résultats des tests :
+
+![Image n°13](image/13.png)
 
 
 
