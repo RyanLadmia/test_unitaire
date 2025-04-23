@@ -42,6 +42,11 @@ Résultat :
 
 ![Image n°7](image/7.png)
 
+Confirmation de la correction : 
+
+![Image n°4](image/4.png)
+
+
 
 
 
