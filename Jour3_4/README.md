@@ -24,7 +24,7 @@ $calculator = new \App\Calculator();
 
 **Création de CalculatorTest.php :**
 
-![Imagen°1](image/1.png)
+![Image°1](image/1.png)
 
 
 **Lancement des tests :**
