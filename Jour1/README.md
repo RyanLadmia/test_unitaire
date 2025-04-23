@@ -16,6 +16,16 @@ npm install --save-dev jest
 
 ## Début des tests :
 
+Fichier contenant la fonction :
+
 - math.js :
 
 ![Image n°2](image/2.png)
+
+
+Fichier contenant le test :
+
+- math.test.js :
+
+![Image n°3](image/3.png)
+
