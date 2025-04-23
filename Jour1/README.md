@@ -47,4 +47,25 @@ Lancement du second test et echec :
 ![Image n°6](image/6.png)
 
 
+Correction de math.js :
+
+![Image n°2](image/2.png)
+
+
+
+Modification de math.test.js :
+
+![Image n°7](image/7.png)
+
+
+Resultat du test : 
+
+![Image n°8](image/8.png) ![Image n°9](image/9.png)
+
+![Image n°10](image/10.png)
+
+
+
+
+
 
