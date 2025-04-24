@@ -51,6 +51,13 @@ class CalculatorTest extends TestCase
         $calculator = new Calculator();
         $this->assertEquals(15, $calculator->calculate('(2 + 3) * 4 - 5'));
     }
+
+    public function testEmptyString() 
+    {
+        $calculator = new Calculator();
+        $this->assertNull($calculator->calculate(''));
+    }
+    
 }
 
 ?>

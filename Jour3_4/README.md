@@ -20,20 +20,47 @@ $calculator = new \App\Calculator();
             "App\\": "src/"
         }
     },
-```
+```  
+  
 
-**Création de CalculatorTest.php :**
+
+**2 - Création de CalculatorTest.php :**
 
 ![Image°1](image/1.png)
+  
 
 
-**Lancement des tests :**
+
+
+**3 - Lancement des tests PHP :**
 ```php
 vendor/bin/phpunit tests/php/CalculatorTest.php
 ```
+  
+
 
 Résultat :
 
 ![Image°2](image/2.png)
+  
 
+
+**2 - Création de calculator.test.js :**
+
+![Image°3](image/3.png)
+
+  
+
+**3 - Lancement des test JS:**
+
+```js
+npm test
+```
+  
+
+Résultat :
+ 
+![Image°4](image/4.png)
+  
+  
 
