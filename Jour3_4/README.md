@@ -45,13 +45,13 @@ Résultat :
   
 
 
-**2 - Création de calculator.test.js :**
+**4 - Création de calculator.test.js :**
 
 ![Image°3](image/3.png)
 
   
 
-**3 - Lancement des test JS:**
+**5 - Lancement des test JS:**
 
 ```js
 npm test
@@ -62,5 +62,13 @@ Résultat :
  
 ![Image°4](image/4.png)
   
-  
 
+**6 Resume des tests PHP :**
+
+![Image°5](image/5.png)
+
+
+
+**7 Resume des tests JS :**
+
+![Image°6](image/6.png)
