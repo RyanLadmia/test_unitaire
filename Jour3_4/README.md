@@ -71,4 +71,4 @@ Résultat :
 
 **7 Resume des tests JS :**
 
-![Image°6](image/6.png)
+Les tests JS sont déà détaillés contairement à ceux en PHP
