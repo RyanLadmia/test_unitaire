@@ -51,7 +51,7 @@ Résultat :
 
   
 
-**5 - Lancement des test JS:**
+**5 - Lancement des tests JS:**
 
 ```js
 npm test
@@ -63,12 +63,12 @@ Résultat :
 ![Image°4](image/4.png)
   
 
-**6 Resume des tests PHP :**
+**6 Résumé des tests PHP :**
 
 ![Image°5](image/5.png)
 
 
 
-**7 Resume des tests JS :**
+**7 Résumé des tests JS :**
 
-Les tests JS sont déà détaillés contairement à ceux en PHP
+Les tests JS sont déjà détaillés contairement à ceux en PHP
